@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dimslalom/btd6-macaque-mod-loader/releases"><img src="https://img.shields.io/badge/releases-download-34C759" alt="Download releases"></a>
-  <a href="https://github.com/dimslalom/btd6-macaque-mod-loader/actions/workflows/build.yml"><img src="https://img.shields.io/badge/build-GitHub%20Actions-0A84FF" alt="View build workflow"></a>
+  <a href="https://github.com/WillemVisagie/fixed-macaque-loader/releases"><img src="https://img.shields.io/badge/releases-download-34C759" alt="Download releases"></a>
+  <a href="https://github.com/WillemVisagie/fixed-macaque-loader/actions/workflows/build.yml"><img src="https://img.shields.io/badge/build-GitHub%20Actions-0A84FF" alt="View build workflow"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B%20·%20Apple%20Silicon-black?logo=apple" alt="macOS 13+ on Apple Silicon">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dimslalom/btd6-macaque-mod-loader/releases/latest"><img src="docs/readme/download.svg" alt="Download for macOS"></a>
+  <a href="https://github.com/WillemVisagie/fixed-macaque-loader/releases/latest"><img src="docs/readme/download.svg" alt="Download for macOS"></a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## Install
 
-**Download** the latest `MacaqueLoader-<version>.dmg` from [Releases](https://github.com/dimslalom/btd6-macaque-mod-loader/releases/latest),
+**Download** the latest `MacaqueLoader-<version>.dmg` from [Releases](https://github.com/WillemVisagie/fixed-macaque-loader/releases/latest),
 open it, and drag **MacaqueLoader** onto **Applications**.
 
 <details>
@@ -54,7 +54,7 @@ do this once. (The Homebrew install below skips this step.)
 **Homebrew**
 
 ```bash
-brew install dimslalom/tap/macaqueloader
+brew install WillemVisagie/tap/macaqueloader
 ```
 
 ```bash
@@ -185,7 +185,7 @@ Not at the moment: MacaqueLoader supports the Steam version on Apple Silicon Mac
 <br>
 
 Open MacaqueLoader's **⋯** menu, choose **Repair**, and try again. If it still fails, turn on **Debug logging** in the
-same menu, reproduce the problem, and [open an issue](https://github.com/dimslalom/btd6-macaque-mod-loader/issues/new?template=bug_report.md)
+same menu, reproduce the problem, and [open an issue](https://github.com/WillemVisagie/fixed-macaque-loader/issues/new?template=bug_report.md)
 with these logs from the game folder:
 
 | File | What |

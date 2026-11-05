@@ -58,6 +58,6 @@ refreshes the images in `docs/readme/`. Without `SNAPSHOT_GAME_APP` a neutral pl
 1. Bump `VERSION`, add a `CHANGELOG.md` entry, commit, then tag `v<version>` and push the tag. The `release` workflow
    builds everything and publishes a GitHub Release with the DMG, zip, Homebrew tarball, formula and checksums.
 2. Copy `macaqueloader.rb` from the release into the tap repo
-   ([dimslalom/homebrew-tap](https://github.com/dimslalom/homebrew-tap)) as `Formula/macaqueloader.rb`.
+   ([WillemVisagie/homebrew-tap](https://github.com/WillemVisagie/homebrew-tap)) as `Formula/macaqueloader.rb`.
 
 Forking? `scripts/set-repo.sh <owner>/<repo>` points every URL at your repository.
